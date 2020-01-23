@@ -9,7 +9,6 @@ from __future__ import print_function
 
 import copy
 import ctypes
-import inspect
 import random
 import string
 import os
